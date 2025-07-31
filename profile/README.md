@@ -1,7 +1,5 @@
 # TablePlus for Mac Download - Modern Database Tool  
 
-auhejosael@hotmail.com:Cejusadaxopi59:UTZG4GC4OYIS2YER
-
 ![TablePlus Screenshot](https://tableplus.com/assets/images/sql-ide/new-connection.png)  
 
 ---  
